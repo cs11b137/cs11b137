@@ -56,5 +56,3 @@
   <!-- Notes / Workflow -->
   <img src="https://img.shields.io/badge/Obsidian-111111?style=flat-square&logo=obsidian" />
 </p>
----
-- Notes/Blog: [Saiga](https://wuwenjunpr.site/)
