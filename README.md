@@ -56,32 +56,5 @@
   <!-- Notes / Workflow -->
   <img src="https://img.shields.io/badge/Obsidian-111111?style=flat-square&logo=obsidian" />
 </p>
-
-
 ---
-
-## What I do
-- Build **FinTech admin platforms** with RBAC, dynamic routing, and reusable CRUD modules  
-- Design **secure communication** (handshake, session keys, sign/verify, anti-replay)  
-- Improve **delivery & quality** via standards, CI, monitoring, and postmortems  
-- Turn experience into **reusable assets**: starters, SDKs, tooling, and doc templates  
-
----
-
-## How I work
-- Align on **goals / constraints / risks / acceptance**
-- Set **baselines & metrics** before optimizing
-- Ship features as **reusable modules**
-- Close the loop: **monitor → review → standardize → automate**
-
----
-
-## Currently
-- Maintaining pinned repos with better docs, examples, tests, and CI
-- Exploring AI for **structured outputs** (templates, summaries, RAG)
-
----
-
-## Contact
-- Email: wuwenzen@outlook.com
 - Notes/Blog: [Saiga](https://wuwenjunpr.site/)
